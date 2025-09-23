@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "legacy_uid": "1ac6956f-151a-970a-d65a-53033e1437d8",
+  "instructors": {
+    "content": [
+      "3ce45c0f-f18c-82e8-8496-ef7816d7aa09"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e6d6ffd6-64e6-7968-9195-d275b73a922f",
+    "website": "11-011-the-art-and-science-of-negotiation-spring-2006"
+  },
+  "course_title": "The Art and Science of Negotiation",
+  "course_description": "This course provides an introduction to bargaining and negotiation in public, business, and legal settings. It combines a \"hands-on\" skill-building orientation with a look at pertinent social theory. Strategy, communications, ethics, and institutional influences are examined as they influence the ability of actors to analyze problems, negotiate agreements, and resolve disputes in social, organizational, and political circumstances characterized by interdependent interests.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.011",
+  "course_image_thumbnail": {
+    "content": "00e5b806-df95-0975-82ee-a10679451bcc",
+    "website": "11-011-the-art-and-science-of-negotiation-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "5358a482-94c1-4868-ba58-39b9e5bba49f",
+  "site_short_id": "11.011-spring-2006",
+  "site_url_path": "courses/11-011-the-art-and-science-of-negotiation-spring-2006",
+  "title": "Course Metadata"
+}
